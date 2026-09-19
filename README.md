@@ -1,5 +1,3 @@
-# KhanaChahiyo_Excel_Project
-
 # KhanaChahiyo Excel Data Analysis
 
 ## About the Project
